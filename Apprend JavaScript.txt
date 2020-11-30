@@ -1,0 +1,12 @@
+*Javascript
+- undefined: chưa được khai báo
+- null: trống không, gán cho 1 giá trị rỗng hoặc chưa gán
+- Khai báo biến
++ var: khai báo biến này ở bất cứ đâu và có thể dùng biến đó xuyên suốt cả chương trình
++ let: biến được khai báo chỉ có thể sử dụng được trong phạm vi cho phép(trong hàm nơi biến được khai báo)
++ const: biến hằng
+- Viết hoa có ảnh hưởng tới biến
+- increment: đơn giản nó tăng giá trị biến lên 1 đơn vị hay ++ hậu tố
+- subtracting: như trên nhưng trừ, -- hậu tố
+- 2 số thập phân nhân nhau nếu tròn trả về luôn dạng int chứ không có .0
+-
